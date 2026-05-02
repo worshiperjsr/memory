@@ -1,0 +1,11 @@
+# 🧭 CEO (Chief Executive Agent) 개인 메모리
+
+_CEO 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 패턴이 누적됩니다._
+
+## 학습 기록
+
+- [2026-05-01] 시니어 롱폼 영상 벤치마킹할 것들 찾아줘 → 보고서 sessions/2026-05-01T16-02/_report.md
+- [2026-05-01] 수익이 잘되고 있는 영상들 다 파악해주고  잘되는 대본을 만드는 법 찾아줘 → 보고서 sessions/2026-05-01T16-07/_report.md
+- [2026-05-01] https://www.notion.so/2-2ee3675bd67881a495abc8ed29e01352   위 노션 자료 모두 학습해줘 유튜브 롱포 사연과 야담 노하우 들이야 → 보고서 sessions/2026-05-01T21-35/_report.md
+- [2026-05-01] https://cafe.naver.com/1sthinking  위 네이버 카페 접속할 수 있어? → 보고서 sessions/2026-05-01T23-49/_report.md
+- [2026-05-02] https://www.youtube.com/@AI%EB%A8%B8%EB%8B%88  유튜브 영상들 읽고 강의한 내용들 자료로 가지고 있어줘 → 보고서 sessions/2026-05-02T03-32/_report.md
